@@ -18,7 +18,7 @@ body {
 	background-image: url("images/bg-pattern-top.svg"),
 					url("images/bg-pattern-bottom.svg");
 	background-repeat: no-repeat;
-	background-position: -60% 250%, 150% -180%;
+	background-position: -20vw -50vh, 50vw 47vh;
     background-color: var(--dark-cyan);
 }
 
@@ -55,6 +55,10 @@ img {
 
 .profile-description {
 	padding: 8px 0 18px;	
+}
+
+h3 {
+	font-size: 18px;
 }
 
 span.age {
